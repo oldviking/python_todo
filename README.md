@@ -1,2 +1,2 @@
-# python_todo_flask
-A Todo Website in Python with the Flask Webserver
+# python_todo
+A Todo Website in Python with the Django Webserver
